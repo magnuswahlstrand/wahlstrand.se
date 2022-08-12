@@ -10,12 +10,12 @@ years.reverse()
 
 <Layout title="Welcome to wahlstrand.se">
     <main>
-<!--        // WIP-->
-        <div class="w-screen h-screen fixed z-10 fixed hidden">
-            <div class="bg-black opacity-40 absolute inset-0 z-20">
-            </div>
-            <img class="z-20" src="https://wahlstrand.se/_images/_Akvareller/_2004/20040003.jpg"/>
-        </div>
+<!--        // WIP - Clean up-->
+<!--        <div class="w-screen h-screen fixed z-10 fixed hidden">-->
+<!--            <div class="bg-black opacity-40 absolute inset-0 z-20">-->
+<!--            </div>-->
+<!--            <img class="z-20" src="https://wahlstrand.se/_images/_Akvareller/_2004/20040003.jpg"/>-->
+<!--        </div>-->
         <div class="grid lg:grid-cols-2 2xl:grid-cols-5">
             <div class="
             2xl:col-span-2
@@ -46,10 +46,16 @@ years.reverse()
                      alt="Watercolor ship">
             </div>
         </div>
-        <div class="flex flex-col items-center pt-32">
-                <h4 class="mt-6 text-2xl sm:text-4xl lg:text-3xl font-bold text-gray-700 tracking-wide">
-                    prior art
-                </h4>
+        <div class="flex flex-col items-center lg:pt-8 xl:pt-12">
+            <h4 class="mt-4 text-2xl sm:text-3xl lg:text-3xl font-bold text-gray-700 tracking-wide">
+                prior art
+            </h4>
+            <svg xmlns="http://www.w3.org/2000/svg" class="sm:hidden h-12 w-12 text-yellow-700 opacity-60 pt-1" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M16 17l-4 4m0 0l-4-4m4 4V3" />
+<!--                <path stroke-linecap="round" stroke-linejoin="round" d="M19 13l-7 7-7-7m14-8l-7 7-7-7" />-->
+            </svg>
+
+                <!--                Clean up -->
                 <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4">
                     {years.map((year) => {
                     return (<>

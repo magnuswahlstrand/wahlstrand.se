@@ -4,6 +4,8 @@ const {img} = Astro.props;
 ---
 
 <div class="p-8">
+    <a href={img.url}>
     <img src={img.thumbnail} alt="unknown"
          class="rounded-sm object-cover object-center rounded-lg shadow-xl w-full h-full border-yellow-900 hover:-translate-y-0.5 transition duration-300 transform hover:saturate-100 saturate-50"/>
+    </a>
 </div>
