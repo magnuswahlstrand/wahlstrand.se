@@ -2,510 +2,387 @@
   "images": {
     "2004": [
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2004/20040001.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2004/thumb/t20040001.jpg"
+        "filename": "2004/20040001"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2004/20040002.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2004/thumb/t20040002.jpg"
+        "filename": "2004/20040002"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2004/20040003.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2004/thumb/t20040003.jpg"
+        "filename": "2004/20040003"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2004/20040004.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2004/thumb/t20040004.jpg"
+        "filename": "2004/20040004"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2004/20040005.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2004/thumb/t20040005.jpg"
+        "filename": "2004/20040005"
       }
     ],
     "2006": [
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2006/20060001.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2006/thumb/t20060001.jpg"
+        "filename": "2006/20060001"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2006/20060002.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2006/thumb/t20060002.jpg"
+        "filename": "2006/20060002"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2006/20060003.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2006/thumb/t20060003.jpg"
+        "filename": "2006/20060003"
       }
     ],
-    "2007": [{
-      "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070001.jpg",
-      "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070001.jpg"
-    },
+    "2007": [
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070002.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070002.jpg"
+        "filename": "2007/20070001"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070003.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070003.jpg"
+        "filename": "2007/20070002"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070004.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070004.jpg"
+        "filename": "2007/20070003"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070005.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070005.jpg"
+        "filename": "2007/20070004"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070006.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070006.jpg"
+        "filename": "2007/20070005"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070007.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070007.jpg"
+        "filename": "2007/20070006"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070008.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070008.jpg"
+        "filename": "2007/20070007"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070009.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070009.jpg"
+        "filename": "2007/20070008"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070010.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070010.jpg"
+        "filename": "2007/20070009"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070011.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070011.jpg"
+        "filename": "2007/20070010"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070012.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070012.jpg"
+        "filename": "2007/20070011"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070013.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070013.jpg"
+        "filename": "2007/20070012"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070014.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070014.jpg"
+        "filename": "2007/20070013"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070015.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070015.jpg"
+        "filename": "2007/20070014"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070016.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070016.jpg"
+        "filename": "2007/20070015"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070017.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070017.jpg"
+        "filename": "2007/20070016"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070018.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070018.jpg"
+        "filename": "2007/20070017"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070019.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070019.jpg"
+        "filename": "2007/20070018"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070020.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070020.jpg"
+        "filename": "2007/20070019"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070021.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070021.jpg"
+        "filename": "2007/20070020"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070022.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070022.jpg"
+        "filename": "2007/20070021"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070023.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070023.jpg"
+        "filename": "2007/20070022"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070024.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070024.jpg"
+        "filename": "2007/20070023"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070025.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070025.jpg"
+        "filename": "2007/20070024"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070026.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070026.jpg"
+        "filename": "2007/20070025"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070027.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070027.jpg"
+        "filename": "2007/20070026"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070028.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070028.jpg"
+        "filename": "2007/20070027"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070029.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070029.jpg"
+        "filename": "2007/20070028"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2007/20070030.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2007/thumb/t20070030.jpg"
+        "filename": "2007/20070029"
+      },
+      {
+        "filename": "2007/20070030"
       }
     ],
-    "2008":[
+    "2008": [
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080001.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080001.jpg"
+        "filename": "2008/20080001"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080002.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080002.jpg"
+        "filename": "2008/20080002"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080003.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080003.jpg"
+        "filename": "2008/20080003"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080004.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080004.jpg"
+        "filename": "2008/20080004"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080005.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080005.jpg"
+        "filename": "2008/20080005"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080006.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080006.jpg"
+        "filename": "2008/20080006"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080007.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080007.jpg"
+        "filename": "2008/20080007"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080008.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080008.jpg"
+        "filename": "2008/20080008"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080009.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080009.jpg"
+        "filename": "2008/20080009"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080010.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080010.jpg"
+        "filename": "2008/20080010"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080011.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080011.jpg"
+        "filename": "2008/20080011"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080012.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080012.jpg"
+        "filename": "2008/20080012"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080013.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080013.jpg"
+        "filename": "2008/20080013"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080014.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080014.jpg"
+        "filename": "2008/20080014"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080015.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080015.jpg"
+        "filename": "2008/20080015"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080016.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080016.jpg"
+        "filename": "2008/20080016"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080017.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080017.jpg"
+        "filename": "2008/20080017"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080018.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080018.jpg"
+        "filename": "2008/20080018"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080019.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080019.jpg"
+        "filename": "2008/20080019"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080020.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080020.jpg"
+        "filename": "2008/20080020"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080021.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080021.jpg"
+        "filename": "2008/20080021"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080022.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080022.jpg"
+        "filename": "2008/20080022"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080023.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080023.jpg"
+        "filename": "2008/20080023"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080024.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080024.jpg"
+        "filename": "2008/20080024"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080025.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080025.jpg"
+        "filename": "2008/20080025"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080026.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080026.jpg"
+        "filename": "2008/20080026"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080027.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080027.jpg"
+        "filename": "2008/20080027"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080028.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080028.jpg"
+        "filename": "2008/20080028"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2008/20080029.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2008/thumb/t20080029.jpg"
+        "filename": "2008/20080029"
       }
     ],
-    "2009": [{
-      "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090001.jpg",
-      "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090001.jpg"
-    },
+    "2009": [
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090002.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090002.jpg"
+        "filename": "2009/20090001"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090003.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090003.jpg"
+        "filename": "2009/20090002"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090004.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090004.jpg"
+        "filename": "2009/20090003"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090005.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090005.jpg"
+        "filename": "2009/20090004"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090006.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090006.jpg"
+        "filename": "2009/20090005"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090007.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090007.jpg"
+        "filename": "2009/20090006"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090008.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090008.jpg"
+        "filename": "2009/20090007"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090009.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090009.jpg"
+        "filename": "2009/20090008"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090010.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090010.jpg"
+        "filename": "2009/20090009"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090011.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090011.jpg"
+        "filename": "2009/20090010"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090012.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090012.jpg"
+        "filename": "2009/20090011"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090013.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090013.jpg"
+        "filename": "2009/20090012"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090014.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090014.jpg"
+        "filename": "2009/20090013"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090015.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090015.jpg"
+        "filename": "2009/20090014"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090016.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090016.jpg"
+        "filename": "2009/20090015"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090017.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090017.jpg"
+        "filename": "2009/20090016"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090018.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090018.jpg"
+        "filename": "2009/20090017"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090019.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090019.jpg"
+        "filename": "2009/20090018"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090020.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090020.jpg"
+        "filename": "2009/20090019"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090021.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090021.jpg"
+        "filename": "2009/20090020"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090022.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090022.jpg"
+        "filename": "2009/20090021"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090023.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090023.jpg"
+        "filename": "2009/20090022"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090024.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090024.jpg"
+        "filename": "2009/20090023"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090025.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090025.jpg"
+        "filename": "2009/20090024"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090026.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090026.jpg"
+        "filename": "2009/20090025"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090027.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090027.jpg"
+        "filename": "2009/20090026"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090028.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090028.jpg"
+        "filename": "2009/20090027"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090029.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090029.jpg"
+        "filename": "2009/20090028"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090030.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090030.jpg"
+        "filename": "2009/20090029"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090031.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090031.jpg"
+        "filename": "2009/20090030"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090032.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090032.jpg"
+        "filename": "2009/20090031"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090033.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090033.jpg"
+        "filename": "2009/20090032"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090034.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090034.jpg"
+        "filename": "2009/20090033"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090035.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090035.jpg"
+        "filename": "2009/20090034"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090036.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090036.jpg"
+        "filename": "2009/20090035"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090037.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090037.jpg"
+        "filename": "2009/20090036"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090038.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090038.jpg"
+        "filename": "2009/20090037"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090039.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090039.jpg"
+        "filename": "2009/20090038"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090040.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090040.jpg"
+        "filename": "2009/20090039"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090041.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090041.jpg"
+        "filename": "2009/20090040"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090042.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090042.jpg"
+        "filename": "2009/20090041"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090043.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090043.jpg"
+        "filename": "2009/20090042"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090044.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090044.jpg"
+        "filename": "2009/20090043"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090045.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090045.jpg"
+        "filename": "2009/20090044"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090046.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090046.jpg"
+        "filename": "2009/20090045"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090047.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090047.jpg"
+        "filename": "2009/20090046"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090048.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090048.jpg"
+        "filename": "2009/20090047"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090049.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090049.jpg"
+        "filename": "2009/20090048"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090050.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090050.jpg"
+        "filename": "2009/20090049"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090051.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090051.jpg"
+        "filename": "2009/20090050"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090052.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090052.jpg"
+        "filename": "2009/20090051"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090053.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090053.jpg"
+        "filename": "2009/20090052"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090054.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090054.jpg"
+        "filename": "2009/20090053"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090055.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090055.jpg"
+        "filename": "2009/20090054"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090056.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090056.jpg"
+        "filename": "2009/20090055"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090059.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090059.jpg"
+        "filename": "2009/20090056"
       },
       {
-        "url": "https://wahlstrand.se/_images/_Akvareller/_2009/20090060.jpg",
-        "thumbnail": "https://wahlstrand.se/_images/_Akvareller/_2009/thumb/t20090060.jpg"
+        "filename": "2009/20090059"
+      },
+      {
+        "filename": "2009/20090060"
       }
     ]
   }

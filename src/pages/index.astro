@@ -60,7 +60,7 @@ years.reverse()
                     {years.map((year) => {
                     return (<>
                         <div class="text-4xl m-auto">{year}</div>
-                        { images[year].map(img => <Thumbnail img={img} />)}</>
+                        { images[year].map(img => <Thumbnail filename={img.filename} />)}</>
                     );
                     })}
                 </div>

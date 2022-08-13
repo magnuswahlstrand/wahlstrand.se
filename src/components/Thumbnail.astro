@@ -1,6 +1,11 @@
 ---
 
-const {img} = Astro.props;
+const {filename} = Astro.props;
+const img = {
+    "url": `https://d2i92zt16vezvc.cloudfront.net/images/${filename}.jpg`,
+    "thumbnail": `https://d2i92zt16vezvc.cloudfront.net/images/thumb/${filename}_thumb.jpg`
+}
+
 ---
 
 <div class="p-8">
