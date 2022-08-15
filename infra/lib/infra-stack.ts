@@ -21,6 +21,25 @@ export class InfraStack extends Stack {
             objectOwnership: s3.ObjectOwnership.BUCKET_OWNER_ENFORCED,
         });
 
+        let group = new iam.Group(this, "wahlstrand-se-bucket-manager", {
+            groupName: "wahlstrand.se-bucket-manager",
+        })
+        group.addToPolicy(new iam.PolicyStatement({
+            effect: iam.Effect.ALLOW,
+            actions: ["s3:ListBucket"],
+            resources: [imageBucket.bucketArn],
+        }));
+        group.addToPolicy(new iam.PolicyStatement({
+            effect: iam.Effect.ALLOW,
+            actions: [
+                "s3:PutObject",
+                "s3:GetObject",
+                "s3:DeleteObject"
+            ],
+            resources: [`${imageBucket.bucketArn}/*`],
+        }));
+
+
         const cf = new cloudfront.Distribution(this, "cdnDistribution", {
             defaultBehavior: {
                 origin: new origins.S3Origin(imageBucket)
@@ -39,6 +58,9 @@ export class InfraStack extends Stack {
 
         new CfnOutput(this, "CloudFrontURL", {
             value: cf.distributionDomainName,
+        })
+        new CfnOutput(this, "Policy", {
+            value: group.groupName
         })
     }
 }
